@@ -15,3 +15,6 @@ gen_same_bday_prob <- function(people_count){
 }
 
 gen_same_bday_prob(23)
+
+# Changes on branch 1
+gen_same_bday_prob(25)
