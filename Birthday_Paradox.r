@@ -17,4 +17,9 @@ gen_same_bday_prob <- function(people_count){
   print(paste0(round((1 - numerator / denominator)*100,2), "%"))
 }
 
+
 gen_same_bday_prob(27)
+
+# Changes on branch 1
+gen_same_bday_prob(25)
+
